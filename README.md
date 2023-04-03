@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Here is my professional Github account.
 <!--
 **jeremyvachierastra/jeremyvachierastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working as a Data Scientist
